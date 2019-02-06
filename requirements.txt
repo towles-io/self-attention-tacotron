@@ -1,0 +1,18 @@
+# Note: this doesn't include tensorflow or tensorflow-gpu because the package you need to install
+# depends on your platform. It is assumed you have already installed tensorflow.
+
+#tensorflow >= 1.11
+librosa >= 0.6.1
+scipy >= 1.1.1
+matplotlib >= 2.2.2
+docopt >= 0.6.2
+
+##For test:
+hypothesis >= 3.59.1
+
+## For pre-processing:
+#tensorflow >= 1.11
+docopt >= 0.6.2
+pyspark >= 2.3.0
+unidecode >= 1.0.22
+inflect >= 1.0.1

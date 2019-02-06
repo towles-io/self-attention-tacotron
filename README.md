@@ -38,6 +38,11 @@ For pre-processing:
 - unidecode >= 1.0.22
 - inflect >= 1.0.1
 
+### Install requirements:
+
+```
+pip install -r requirements.txt
+```
 
 ## Preparing data
 
